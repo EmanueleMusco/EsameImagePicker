@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 import random
 import time
 
-#scarica i drive di google in base alla tua versione di chrome
+#scarica i driver di google in base alla tua versione di chrome
 PATH = r"C:\Users\Emanuele\Desktop\chromedriver.exe" #metti il path del tuo driver di google
 driver = webdriver.Chrome(PATH)
 
